@@ -10,7 +10,7 @@ This is my first project/challenge at HGN Intership and it's
 
 ### Screenshot
 
-![screenshot](./assets/stage_one_project.png)
+![screenshot](./assets/hng_stage_one.png)
 
 - Live Site URL: [Vercel](https://stage-one-project.vercel.app/)
 
