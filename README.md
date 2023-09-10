@@ -12,7 +12,7 @@ This is my first project/challenge at HGN Intership and it's
 
 ![screenshot](./assets/hng_stage_one.png)
 
-- Live Site URL: [Vercel](https://stage-one-project.vercel.app/)
+- Live Site URL: [Vercel](https://hng-stage-one-cyan.vercel.app/)
 
 ## My process
 
